@@ -1,0 +1,41 @@
+# ── Personal career data — stays on your local machine only ──────────────────
+profile/
+data/
+exports/
+
+# ── Claude account & API keys — never commit these ───────────────────────────
+CLAUDE.local.md
+
+# ── Personal resume files and workshop materials in root ─────────────────────
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.doc
+
+# ── Node dependencies (auto-installed by export scripts) ─────────────────────
+node_modules/
+package-lock.json
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Python virtual environments (if you ever create one) ─────────────────────
+venv/
+env/
+.venv/
+
+# ── OS-generated files ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor files ──────────────────────────────────────────────────────────────
+.vscode/settings.json
+*.swp
+*.swo
