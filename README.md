@@ -78,7 +78,6 @@ I built this agent to handle all of that in one place — so I can spend less ti
 |------|---------|-----------------|
 | VS Code | The editor the agent runs inside | [code.visualstudio.com](https://code.visualstudio.com) |
 | Claude Code extension | The AI chat interface inside VS Code | Extensions panel → search "Claude Code" |
-| Claude Pro subscription | Powers the AI | [claude.ai](https://claude.ai) |
 | Python 3.x | Runs ATS scoring + Word export scripts | [python.org](https://python.org) |
 | Node.js 18+ | Runs the PDF export script | [nodejs.org](https://nodejs.org) |
 
