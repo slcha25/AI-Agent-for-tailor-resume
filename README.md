@@ -83,16 +83,6 @@ I built this agent to handle all of that in one place — so I can spend less ti
 
 ### Quick Start
 
-```bash
-# 1. Clone the repo and open in VS Code
-git clone https://github.com/slcha25/AI-Agent-for-tailor-resume.git
-cd AI-Agent-for-tailor-resume
-
-# 2. Open VS Code and start a Claude Code session
-# 3. Type your first command in the chat panel
-/intake
-```
-
 > 💬 **First time?** Start with `/intake`. It takes about 10 minutes and only needs to be done once. After that, jump straight to `/job-search` or `/tailor` for every new application.
 
 ---
